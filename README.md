@@ -16,7 +16,7 @@
 Hey there! I love to read, speak, and discuss trending tech, space, and science. 
 
 -  Alumni at **Bharathidhasan College of Arts and Science** 
--  Head to my portfolio: <a href="https://poovendran.netlify.app" target="_blank">**https://poovendranselvaraj.netlify.app**</a>
+-  Head to my portfolio: <a href="https://poovendran.netlify.app" target="_blank">**https://poovendran.netlify.app**</a>
 -  Ask me about  Web Development, DBMS, React,Full Stack and Python. 
 -  Feel free to mail me [poovendranselvaraj333@gmail.com](mailto:poovendranselvaraj333@gmail.com)
 
